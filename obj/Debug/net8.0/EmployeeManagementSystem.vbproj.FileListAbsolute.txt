@@ -1,0 +1,17 @@
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.exe
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.deps.json
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.runtimeconfig.json
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.dll
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.pdb
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfo.vb
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.vbproj.CoreCompileInputs.cache
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.dll
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\refint\EmployeeManagementSystem.dll
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.vbproj.AssemblyReference.cache
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\Employee.9A62F787.Up2Date

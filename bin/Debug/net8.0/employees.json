@@ -1,0 +1,32 @@
+[
+  {
+    "$type": "EmployeeManagementSystem.FullTimeEmployee, EmployeeManagementSystem",
+    "Name": "Ahmed Adly",
+    "Id": 120,
+    "Salary": 50000.000
+  },
+  {
+    "$type": "EmployeeManagementSystem.FullTimeEmployee, EmployeeManagementSystem",
+    "Name": "Amr Adly",
+    "Id": 130,
+    "Salary": 600000.000
+  },
+  {
+    "$type": "EmployeeManagementSystem.PartTimeEmployee, EmployeeManagementSystem",
+    "Name": "Ola Hassan",
+    "Id": 140,
+    "Salary": 1170.000
+  },
+  {
+    "$type": "EmployeeManagementSystem.FullTimeEmployee, EmployeeManagementSystem",
+    "Name": "Ahmed Hassan",
+    "Id": 150,
+    "Salary": 5000.000
+  },
+  {
+    "$type": "EmployeeManagementSystem.PartTimeEmployee, EmployeeManagementSystem",
+    "Name": "Omar Moahmed",
+    "Id": 160,
+    "Salary": 3750.000
+  }
+]
