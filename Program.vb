@@ -14,7 +14,7 @@ Module Program
         Do
             Console.Clear()
             DisplayMenu()
-            Console.Write("Enter your choice (1-10): ")
+            Console.Write("Enter your choice (1-8): ")
 
             If Integer.TryParse(Console.ReadLine(), choice) Then
                 Select Case choice

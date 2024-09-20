@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeManagementSystem"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5764c8b50481d2ee33f7898e46fb9d5ac2d9c7f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("EmployeeManagementSystem"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("EmployeeManagementSystem"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
