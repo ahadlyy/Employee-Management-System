@@ -279,6 +279,7 @@ Module Program
         Else
             employees.Remove(emp)
             DisplaySuccess("Employee deleted successfully.")
+            SaveEmployees()
         End If
 
         Pause()

@@ -15,3 +15,4 @@ G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSyst
 G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
 G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.vbproj.AssemblyReference.cache
 G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\Employee.9A62F787.Up2Date
+G:\AhmedAdly SD\Application\task\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.sourcelink.json

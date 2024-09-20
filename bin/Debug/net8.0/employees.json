@@ -28,5 +28,11 @@
     "Name": "Omar Moahmed",
     "Id": 160,
     "Salary": 3750.000
+  },
+  {
+    "$type": "EmployeeManagementSystem.PartTimeEmployee, EmployeeManagementSystem",
+    "Name": "Ahmed Ali",
+    "Id": 200,
+    "Salary": 1250.00
   }
 ]
